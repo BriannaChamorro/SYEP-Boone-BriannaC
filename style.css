@@ -1,0 +1,19 @@
+*{
+  margin:;
+  padding:;
+  box-sizing:border-box;
+}
+
+body{
+  backgtound-color: rgb(143, 143, 211);
+  text-allign: center;
+  line-height:2.1;
+}
+
+.hero img{
+  border-radius:50%;
+}
+
+.accent{
+  color:pink;
+}
