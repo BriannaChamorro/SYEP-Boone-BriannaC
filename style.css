@@ -1,12 +1,12 @@
 *{
-  margin:;
-  padding:;
+  margin:5px;
+  padding:5px;
   box-sizing:border-box;
 }
 
 body{
-  backgtound-color: rgb(143, 143, 211);
-  text-allign: center;
+  background-color: rgb(143, 143, 211);
+  text-align: center;
   line-height:2.1;
 }
 
