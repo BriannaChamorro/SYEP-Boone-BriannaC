@@ -15,5 +15,24 @@ body{
 }
 
 .accent{
-  color:pink;
+  color:rgb(255, 192, 203);
+}
+
+@media (max-width:768px){
+  body{background-color:rgb(150, 101, 211);}
+}
+
+.grid{
+  display:flex;
+  justify-content:center;
+ /* justify-content: space-around;*/
+ gap:15px
+ flex-wrap:wrap;
+}
+
+.grid div{
+  background-color:beige;
+  border-radius:100%;
+  padding:10px;
+  min-width:100px;
 }
